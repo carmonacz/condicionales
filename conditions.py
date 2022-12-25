@@ -5,4 +5,4 @@ if n>0:
 elif n<0:
     print("n es negativo")
 else:
-    print("n es negativo")
+    print("n es Zero")
